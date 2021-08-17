@@ -19,8 +19,6 @@ title:       "QCCC-22: The First International Workshop on Quantum Classical Coo
 keywords:    "quantum computing, NISQ, VQA, quantum machine learning, VQE, QAOA, QNN"
 description: "The first international workshop on quantum classical cooperative computing"
 
-source: [_posts]
-
 #source_link: "https://github.com/uuudown/qccc.github.io"
 source_link: "https://uuudown.github.io/qccc/"
 #favicon:     "img/favicon.ico"
