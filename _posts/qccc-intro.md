@@ -88,22 +88,7 @@ Accepted papers will be given 15 mins to present in the workshop.
 Papers are to be submitted electronically through the Easychair system at: [https://easychair.org/conferences/?conf=qccc22](https://easychair.org/conferences/?conf=qccc22)
 
 ## Program Committee
-* Ang Li, Pacific Northwest National Laboratory, USA
-* Jidong Zhai, Tsinghua University, China
-* Lei Liu, ICT, China
-* Shuaiwen Leon Song, University of Sydney, Australia
-* Torsten Hoefler, ETH, Zurich
-* Carlos Ortiz Marrero, NCSU, USA
-* Yufei Ding, UCSB, USA
-* Eddy Zhang, Rutgers University, USA
-* Qiang Guen, Kent State Univesity
-* Battina Heim, Microsoft
-* Xian Wu, Rigetti
-* Bo Peng, PNNL, USA
-* Karol Kowalski, PNNL, USA
-* Thien Nguyen, ORNL, USA
-* Scott Pakin, LANL, USA
-
+TBD
 
 ## Workshop Program
 

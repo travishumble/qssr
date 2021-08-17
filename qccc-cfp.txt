@@ -46,6 +46,4 @@ Accepted papers will be given 15 mins to present in the workshop.
 Papers are to be submitted electronically through the Easychair system at: https://easychair.org/conferences/?conf=qccc22
 
 Program Committee:
-* Ang Li, Pacific Northwest National Laboratory, USA
-* Qiang Guan, Kent State Univesity
-
+TBD.
