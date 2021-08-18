@@ -59,7 +59,8 @@ your submissions: (https://www.ieee.org/conferences/publishing/templates.html).
 
 Accepted papers will be given 15 mins to present in the workshop.
 
-Papers are to be submitted electronically through the Easychair system at: https://easychair.org/conferences/?conf=qccc22
+Papers are to be submitted electronically through the Easychair system at: 
+https://easychair.org/conferences/?conf=qccc22
 
 Program Committee:
 TBD.
