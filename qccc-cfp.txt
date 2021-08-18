@@ -7,9 +7,19 @@
     The 36th IEEE International Parallel and Distributed Processing Symposium
                                     (IPDPS’22)
 
-The past five years have seen tramendous development in quantum computing technology, remarked by the demonstration of quantum supremacy. Although many quantum algorithms declare exponential speedups over their classical counterparts, today's quantum devices in the noisy-intermediate scale quantum (NISQ) era are very susceptible to environmental noise, internal interference, manufacturing imperfection, and technology limitation. Consequently, quantum algorithms that are more robust to noise, or can be effectively decomposed into small pieces for incremental exeuction become promsing.  
+The past five years have seen tremendous development in quantum computing technology, remarked by 
+the demonstration of quantum supremacy. Although many quantum algorithms declare exponential 
+speedups over their classical counterparts, today's quantum devices in the noisy-intermediate 
+scale quantum (NISQ) era are very susceptible to environmental noise, internal interference, 
+manufacturing imperfection, and technology limitation. Consequently, quantum algorithms that 
+are more robust to noise, or can be effectively decomposed into small pieces for incremental 
+or parallel quantum execution become promising. 
 
-The purpose of this workshop is to explore innovative ways of quantum-classical cooperative computing (QCCC) to make quantum computing more effective and scalable in NISQ platforms. The workshop will focus heavily on how classical computing can improve NISQ device execution efficiency, scalability, or compensate noise impact or technology deficiency, with particular emphasize on demonstrable approaches on existing NISQ platforms, such as IBM-Q, IonQ and Rigetti.
+The purpose of this workshop is to explore innovative ways of quantum-classical cooperative 
+computing (QCCC) to make quantum computing more effective and scalable in NISQ platforms. The 
+workshop will focus heavily on how classical computing can improve NISQ device execution 
+efficiency, scalability, or compensate for noise impact or technology deficiency, with particular 
+emphasis on demonstrable approaches on existing NISQ platforms, such as IBM-Q, IonQ and Rigetti.
 
 Topics of interest include, but not limited to:
 * Quantum classical hybrid algorithms
@@ -24,10 +34,12 @@ Topics of interest include, but not limited to:
 * Quantum error correction and error mitigation
 * Other QCCC approaches
 
-Topics that are not relevant include pure quantum or pure classical algorithm/hardware design, benchmarking of quantum algorithm/deviecs. 
+Topics that are not relevant include pure quantum or pure classical algorithm/hardware design, 
+benchmarking of quantum algorithm/devices. 
 
 Venue:
-This workshop is part of IEEE International Parallel and Distributed Processing Symposium (IPDPS 2022) scheduled from May 30 to June 3, 2022 at Ecole Normale Supérieure de Lyon, Lyon, France. 
+This workshop is part of IEEE International Parallel and Distributed Processing Symposium (IPDPS 2022)
+scheduled from May 30 to June 3, 2022 at Ecole Normale Supérieure de Lyon, Lyon, France. 
 
 Important Dates:
 * Extended 2-page Abstract Submission Deadline: Friday, March 11, 2022
@@ -37,9 +49,13 @@ Important Dates:
 
 Paper Submissions:
 
-Authors are invited to submit original 2-page (double-column) extended abstracts. The deadline is Friday, Mar 11, 2022. Accepted papers will be invited to submit a full paper for the workshop proceedings to be published in the IEEE Digital Library as part of the IPDPS-22 workshop proceedings. 
+Authors are invited to submit original 2-page (double-column) extended abstracts. The deadline is 
+Friday, Mar 11, 2022. Accepted papers will be invited to submit a full paper for the workshop 
+proceedings to be published in the IEEE Digital Library as part of the IPDPS-22 workshop proceedings. 
 
-Full papers for the workshop proceedings will be due Friday, April 29, 2022. The full paper is limited with 6 pages without references. Please use the IEEE Conference Proceedings format for your submissions: (https://www.ieee.org/conferences/publishing/templates.html).
+Full papers for the workshop proceedings will be due Friday, April 29, 2022. The full paper is 
+limited to 6 pages without references. Please use the IEEE Conference Proceedings format for
+your submissions: (https://www.ieee.org/conferences/publishing/templates.html).
 
 Accepted papers will be given 15 mins to present in the workshop.
 
