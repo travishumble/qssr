@@ -5,6 +5,7 @@ color: black
 style: left
 ---
 
+# IPDRM 2016
 
 <!--<div style="text-align:center;">
   <span class="fa-stack subtlecircle" style="font-size:64px; background:rgba(0,128,0,0.1)">
@@ -13,25 +14,24 @@ style: left
   </span>
 </div>-->
 
+## First Annual Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware
 
-## May 30, 2022, Lyon, France.
+### May 23, 2016, Chicago Illinois, USA.
 
 <div style="text-align:center;">
-  <a href="https://www.ipdps.org/"><img width="640px" src="img/IPDPS2022WebHeader.jpeg"/></a>
+  <a href="http://www.ipdps.org/"><img width="320px" src="img/IPDPS2016Logo.jpg"/></a>
   &nbsp;  &nbsp;  &nbsp;  &nbsp;
 </div>
 
-    
-#### Held in conjunction with the The 36th IEEE International Parallel and Distributed Processing Symposium ([IPDPS-2022](https://www.ipdps.org/)), May 30-June 3, 2022, Lyon, France.
+#### Held in conjunction with the 30th IEEE International Parallel and Distributed Processing Symposium, ([IEEE IPDPS 2016](http://www.ipdps.org/)), May 23-27, 2016, Chicago, Illinois, USA.
 
 <div style="text-align:center;">
   <p>
   <font style="color:red;font-size:18pt;font-face:bold;">
-  Submission deadline for 2-page extended abstract is March 11, 2022 (PST/PDT)
-  </font>
+  Submission deadline for full papers is January 22, 2016 (Automatic Extension January 29, 2016)
+  </b></font>
   </p>
 </div>
-
 
 ### Overview
 
