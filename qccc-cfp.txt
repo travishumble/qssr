@@ -42,9 +42,9 @@ This workshop is part of IEEE International Parallel and Distributed Processing 
 scheduled from May 30 to June 3, 2022 at Ecole Normale Supérieure de Lyon, Lyon, France. 
 
 Important Dates:
-* Extended 2-page Abstract Submission Deadline: Friday, March 11, 2022
-* Acceptance Notification: Wednesday, March 16, 2022
-* Camera-ready Manuscripts Due: Friday, April 29, 2022
+* Extended 2-page Abstract Submission Deadline: Friday, Febrary 25, 2022
+* Acceptance Notification: Friday, March 4, 2022
+* Camera-ready Manuscripts Due: Tuesday, March 15, 2022
 * Workshop: Monday, May 30, 2022
 
 Paper Submissions:
