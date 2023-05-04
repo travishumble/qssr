@@ -15,9 +15,9 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "QCCC-22: The First International Workshop on Quantum Classical Cooperative Computing"
-keywords:    "quantum computing, NISQ, VQA, quantum machine learning, VQE, QAOA, QNN"
-description: "The first international workshop on quantum classical cooperative computing"
+title:       "QCE-23: Quantum System Stability and Reproducibility Workshop"
+keywords:    "quantum computing, NISQ, VQA, quantum machine learning, Quantum System Stability, Reproducibility"
+description: "-"
 
 source_link: "https://github.com/happybored/qssr.github.io"
 #source_link: "https://uuudown.github.io/qccc/"
